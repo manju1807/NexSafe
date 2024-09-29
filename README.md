@@ -60,3 +60,11 @@ This project demonstrates proficiency in:
 * Incorporating animations with Framer Motion
 * Effectively communicating product features through UI
 * Setting up a modern development environment with Vite
+
+## 🤝 Contributing
+
+This is a demo project to showcase UI design and React development skills. However, feedback and suggestions are welcome. Please open an issue to discuss any changes you'd like to propose.
+
+---
+
+Created with ❤️ by Manjunath R
